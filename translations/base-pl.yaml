@@ -358,16 +358,16 @@ ingame:
                 desc: Hunt them all!
 shopUpgrades:
     belt:
-        name: Taśmociągi, Dystrybutory & Tunele
+        name: Taśmociągi, Dystrybutory i Tunele
         description: Szybkość x<currentMult> → x<newMult>
     miner:
         name: Wydobycie
         description: Szybkość x<currentMult> → x<newMult>
     processors:
-        name: Cięcie, Obrót & Sklejanie
+        name: Cięcie, Obrót i Sklejanie
         description: Szybkość x<currentMult> → x<newMult>
     painting:
-        name: Miksowanie & Malowanie
+        name: Miksowanie i Malowanie
         description: Szybkość x<currentMult> → x<newMult>
 buildings:
     hub:
@@ -414,8 +414,8 @@ buildings:
             name: Obracacz (Przeciwny kierunek)
             description: Obraca kształt przeciwnie do ruchu wskazówek zegara o 90 stopni.
         rotate180:
-            name: Rotate (180)
-            description: Rotates shapes by 180 degrees.
+            name: Obracasz (180)
+            description: Obraca kształt o 180 stopni.
     stacker:
         default:
             name: Sklejacz
