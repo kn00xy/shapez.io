@@ -354,8 +354,8 @@ ingame:
                 title: Wspomóż mnie
                 desc: Tworzę tą grę w swoim wolnym czasie!
             achievements:
-                title: Achievements
-                desc: Hunt them all!
+                title: Osiągnięcia
+                desc: Zdobądź wszystkie!
 shopUpgrades:
     belt:
         name: Taśmociągi, Dystrybutory & Tunele
@@ -852,7 +852,7 @@ settings:
             title: Obrót według typu budynku
             description: Każdy typ budynku pamięta obrót, który ostatnio ustawiłeś
                 indywidualnie. Może to być wygodniejsze, jeśli często
-                przełączasz się między umieszczaniem różne typy budynków.
+                przełączasz się między umieszczaniem różnych typów budynków.
         soundVolume:
             title: Głośność dźwięków
             description: Ustaw głośnośc efektów dźwiękowych
@@ -879,7 +879,7 @@ settings:
                 to, że gra będzie wyglądać bardzo brzydko!
         displayChunkBorders:
             title: Wyświetl granice obszarów
-            description: Gra jest podzielona na obszary o wielkości 16x15 kratek. Włączenie
+            description: Gra jest podzielona na obszary o wielkości 16x16 kratek. Włączenie
                 tego ustawienia powoduje wyświetlenie granicy każdego obszaru.
         pickMinerOnPatch:
             title: Wybierz ekstraktor zamiast źródła
@@ -897,7 +897,7 @@ settings:
                 poruszania.
         zoomToCursor:
             title: Powiększ w kierunku kursora
-            description: Powiększ w kierunku pozycji kursora myszylub do środka ekranu.
+            description: Powiększ w kierunku pozycji kursora myszy lub do środka ekranu.
         mapResourcesScale:
             title: Rozmiar mapy zasobów
             description: Steruje rozmiarem kształtów w przeglądzie mapy (podczas
@@ -1014,7 +1014,7 @@ tips:
     - Możesz zmienić kierunek planera taśmociągów poprzez naciśnięcie <b>R</b>.
     - Przytrzymanie <b>CTRL</b> pozwala na przeciąganie taśmociągów bez
       automatycznego zmieniania kierunków.
-    - Stosunku pozostają takie same, dopóki wszystkie ulepszenia są na tym samym
+    - Stosunki pozostają takie same, dopóki wszystkie ulepszenia są na tym samym
       poziomie.
     - Seryjne wykonanie jest badziej wydajne niż równoległe.
     - Odblokujesz więcej wariantów budynków później w rozgrywce!
